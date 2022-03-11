@@ -1,0 +1,13 @@
+.heading
+{
+font-size: 30px;
+width: 50%;
+margin: 1px;
+box-shadow:10px 10px 10px purple;
+}
+canvas
+{
+border:7px soild yellow;
+border-radius:20px;
+box-shadow:5px 5px 5px grey;
+}
